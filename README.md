@@ -4,7 +4,7 @@
 - [Twitter](https://twitter.com/milesfl0)
 
 ### 🔭 I’m currently working on:
-  - @FireEye's SOAR initiatives
+  - @Mandiant's SOAR initiatives
 
 ### 🌱 I’m currently learning:
   - GoLang
