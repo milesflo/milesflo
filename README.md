@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi 👋, I'm Miles
 
 ## Bio
 Hello! I'm a Security leader with a developer-centric approach to securing modern cloud platforms. Proven expertise in security architecture, SDLC governance, vulnerability remediation, and leading high-impact security teams. Passionate about bridging the gap between engineering and security to drive proactive, scalable security solutions.
