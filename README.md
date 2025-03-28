@@ -1,8 +1,5 @@
 # Hi there 👋
 
-## My Social:
-- [Twitter](https://twitter.com/milesfl0)
-
 ### 🔭 I’m currently working on:
   - @Mandiant's SOAR initiatives
 
